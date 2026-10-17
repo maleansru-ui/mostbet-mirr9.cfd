@@ -27,7 +27,7 @@
     RewriteRule ^ https://%1%{REQUEST_URI} [R=301,L]
 
     # ── Партнёрская ссылка ───────────────────
-    RewriteRule ^mostbet/?$ https://xtsplkmost.com/8BPU?sub1=mostbet-mirr9.cfd [R=302,L,NE]
+    RewriteRule ^mostbet/?$ https://qydnte.com/8BPU?sub1=mostbet-mirr9.cfd [R=302,L,NE]
 
     # Вариант B: принудительно с www — раскомментируй и закомментируй вариант A
     # RewriteCond %{HTTP_HOST} !^www\. [NC]
